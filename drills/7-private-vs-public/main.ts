@@ -1,0 +1,2 @@
+// Exercise 7: Private vs. Public
+// Create a class Counter with a private property count of type number initialized to 0 and a public method increment that increases count by 1. Add another method to retrieve the value of count.
