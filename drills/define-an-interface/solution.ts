@@ -4,4 +4,7 @@
 // Create an interface called Person that has two properties: name of type string and age of type number.
 
 
-console.log('Hello')
+interface Person {
+  name: string,
+  age: number
+}

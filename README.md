@@ -13,8 +13,7 @@ You will find all the drill starter folders in `drills`. example `drills/define-
 
 #### Run your script
 
-`npx ts-node drills/<example-drill>/main.ts`
-
+`node drills/<example-drill>/main.ts`
 
 
 ### Exercise 1: Define an Interface
