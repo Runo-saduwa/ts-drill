@@ -1,0 +1,2 @@
+//  Exercise 9: Abstract Class
+// Define an abstract class Shape with an abstract method area that returns a number. Extend this class with Circle and Square classes, implementing the area method according to each shape's formula.
